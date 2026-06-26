@@ -1,0 +1,44 @@
+# Acme Robotics Company Handbook
+
+## Company Overview
+Acme Robotics was founded in 2018 by Sarah Chen and Michael Torres. The company's headquarters are located in Austin, Texas. Acme Robotics develops autonomous warehouse robots for logistics and supply chain operations.
+
+## Products
+
+### RoverX
+RoverX is an autonomous mobile robot released in March 2022. It can carry up to 500 kilograms and operates for 14 hours on a single charge. RoverX uses LiDAR and computer vision for navigation.
+
+### LiftBot Pro
+LiftBot Pro was launched in September 2023. It is designed for pallet handling and can lift loads up to 1,500 kilograms. The robot includes collision avoidance software version 4.2.
+
+## Customer Support
+Technical support is available Monday through Friday from 8:00 AM to 6:00 PM Central Time. Customers can contact support by email at support@acmerobotics.example or by phone at +1-800-555-0199.
+
+## Offices
+
+### Austin Headquarters
+Address: 1200 Innovation Drive, Austin, TX 78701
+
+### Seattle Research Center
+Address: 500 Tech Avenue, Seattle, WA 98109
+
+## Employee Benefits
+Full-time employees receive:
+- Health insurance
+- Dental insurance
+- 20 days of paid vacation annually
+- Annual training budget of $2,000
+
+## Security Policy
+All employees must enable multi-factor authentication (MFA) on company accounts. Passwords must be at least 12 characters long and rotated every 180 days.
+
+## Frequently Asked Questions
+
+Q: What is the maximum payload of RoverX?
+A: RoverX can carry up to 500 kilograms.
+
+Q: When was LiftBot Pro released?
+A: LiftBot Pro was launched in September 2023.
+
+Q: Where is the company headquarters?
+A: The headquarters are located in Austin, Texas.

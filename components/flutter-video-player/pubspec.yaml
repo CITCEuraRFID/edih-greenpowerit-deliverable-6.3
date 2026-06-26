@@ -1,0 +1,10 @@
+name: flutter_video_player
+version: 0.1.0
+description: A reusable Flutter component for playing videos using media_kit.
+homepage: https://example.com/flutter_video_player
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  media_kit: ^0.1.0

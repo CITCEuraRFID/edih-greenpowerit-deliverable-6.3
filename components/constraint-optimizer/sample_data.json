@@ -1,0 +1,21 @@
+{
+  "description": "Synthetic data for a simple production mixing problem",
+  "coefficients": {
+    "x": 3,
+    "y": 5
+  },
+  "bounds": {
+    "x": [0, null],
+    "y": [0, null]
+  },
+  "constraints": [
+    {
+      "name": "resource1",
+      "expression": "2*x + y <= 10"
+    },
+    {
+      "name": "resource2",
+      "expression": "x + 2*y <= 8"
+    }
+  ]
+}

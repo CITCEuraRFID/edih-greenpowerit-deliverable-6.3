@@ -1,0 +1,2 @@
+lightfm>=1.0
+pandas>=2.0
